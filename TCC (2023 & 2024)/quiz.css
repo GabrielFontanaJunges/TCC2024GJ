@@ -1,0 +1,54 @@
+body {background-color:rgb(255, 255, 255)}
+
+.navbar{
+    text-align:center
+    background-color justify rgb(54, 54, 176)
+}
+
+.texto{
+    border:1px dashed grey
+}
+
+.texto{
+    background-color: rgb(124, 192, 255);
+}
+
+.opc{
+    background-color: white;
+}
+
+#resultado{
+    color:black
+}
+
+#resultado{
+    background-color: white;
+}
+
+#resultado{
+    border:1px dashed rgb(124, 192, 255)
+}
+
+#voltar{
+    background-color: rgb(54, 54, 176);
+}
+
+#qui{
+    height: 2cm;
+}
+
+#botaoform{
+    background-color: rgb(54, 54, 176);
+}
+
+#botaoform{
+    color: white
+}
+
+#botaoform{
+    width: 5cm;
+}
+
+#botaoform{
+    height: 0,2cm;
+}
